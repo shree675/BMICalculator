@@ -1,2 +1,4 @@
 # BMICalculator
-A simple app that calculates your BMI and provides suggestions
+
+## About
+A simple and a light app that calculates your BMI based on your input and provides suggestions on maintaining a healthy shape.
